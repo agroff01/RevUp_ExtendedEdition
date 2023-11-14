@@ -1,4 +1,4 @@
-title = "One Button";
+title = "Rev Up: The Expansion Pack";
 
 description = `
 [Tap] Multiple jumps
